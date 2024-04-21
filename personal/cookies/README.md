@@ -16,7 +16,7 @@ Cookie là một mẩu văn bản nhỏ mà máy chủ web của chúng tôi lư
 
 GitBook đặt các cookie sau đây trên người dùng của chúng tôi với các lý do sau:
 
-<table data-full-width="true"><thead><tr><th>Tên Cookie</th><th>Lý do</th></tr></thead><tbody><tr><td><code>:__session</code></td><td>Cookie này được sử dụng để đăng nhập bạn.</td></tr><tr><td><code>:_ga</code></td><td>Cookie này được sử dụng bởi Google Analytics.</td></tr><tr><td><code>:_stripe</code></td><td>Cookie này được sử dụng bởi Stripe.</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th>Tên Cookie</th><th>Lý do</th></tr></thead><tbody><tr><td><code>:__session</code></td><td>Cookie này được sử dụng để đăng nhập bạn.</td></tr><tr><td><code>:_ga</code></td><td>Cookie này được sử dụng bởi Google Analytics.</td></tr><tr><td><code>:_stripe</code></td><td>Cookie này được sử dụng bởi Stripe.</td></tr></tbody></table>
 
 Một số trang trên trang web của chúng tôi có thể đặt các cookie của bên thứ ba khác. Ví dụ, chúng tôi có thể nhúng nội dung, như video, từ một trang khác đặt cookie. Mặc dù chúng tôi cố gắng giảm thiểu các cookie của bên thứ ba này, chúng tôi không thể luôn kiểm soát cookie nào mà nội dung của bên thứ ba này đặt.
 
